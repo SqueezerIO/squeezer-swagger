@@ -1,0 +1,6 @@
+- identifier : 'swagger:serve'
+  path : 'lib'
+  function : 'run'
+- identifier : 'swagger:deploy'
+  path : 'lib/swagger/deploy'
+  function : 'run'

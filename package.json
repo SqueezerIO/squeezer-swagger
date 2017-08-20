@@ -1,0 +1,74 @@
+{
+  "name": "squeezer-swagger",
+  "version": "0.0.1",
+  "description": "Swagger Squeezer Plugin . This plugin enables Swagger API Documentation support within the Squeezer Framework.",
+  "homepage": "https://squeezer.io/",
+  "bin": {},
+  "keywords": [
+    "squeezer.io",
+    "squeezer.io framework",
+    "squeezer framework",
+    "squeezer",
+    "squeezer cli",
+    "squeezer generator",
+    "serverless",
+    "serverless framework",
+    "microservices",
+    "micro",
+    "service",
+    "microservices",
+    "aws lambda",
+    "lambda",
+    "API",
+    "web",
+    "web app",
+    "swagger",
+    "swagger api docs",
+    "pug",
+    "reactjs",
+    "jade",
+    "aws",
+    "amazon web services lambda",
+    "api gateway",
+    "cloudfront",
+    "azure functions",
+    "google cloud functions",
+    "ibm openwhisk",
+    "iot",
+    "internet of things"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SqueezerIO/squeezer-swagger"
+  },
+  "scripts": {
+    "eslint": "eslint . --cache",
+    "jsinspect": "jsinspect -t 50 --ignore 'public' ./"
+  },
+  "contributors": [
+    {
+      "name": "Nick Chisiu",
+      "email": "nick@squeezer.io",
+      "web": "https://Squeezer.IO/"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "colors": "^1.1.2",
+    "express": "^4.15.4",
+    "lodash": "^4.17.4",
+    "url-parse": "^1.1.9",
+    "walk-sync": "^0.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.0.0",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.10.0",
+    "jsinspect": "^0.12.7"
+  }
+}

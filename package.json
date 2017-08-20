@@ -1,6 +1,6 @@
 {
   "name": "squeezer-swagger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Swagger Squeezer Plugin . This plugin enables Swagger API Documentation support within the Squeezer Framework.",
   "homepage": "https://squeezer.io/",
   "bin": {},

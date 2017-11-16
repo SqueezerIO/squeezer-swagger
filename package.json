@@ -1,6 +1,6 @@
 {
   "name": "squeezer-swagger",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "Swagger Squeezer Plugin . This plugin enables Swagger API Documentation support within the Squeezer Framework.",
   "homepage": "https://squeezer.io/",
   "bin": {},
@@ -8,34 +8,7 @@
     "squeezer.io",
     "squeezer.io framework",
     "squeezer framework",
-    "squeezer",
-    "squeezer cli",
-    "squeezer generator",
-    "serverless",
-    "serverless framework",
-    "microservices",
-    "micro",
-    "service",
-    "microservices",
-    "aws lambda",
-    "lambda",
-    "API",
-    "web",
-    "web app",
-    "swagger",
-    "swagger api docs",
-    "pug",
-    "reactjs",
-    "jade",
-    "aws",
-    "amazon web services lambda",
-    "api gateway",
-    "cloudfront",
-    "azure functions",
-    "google cloud functions",
-    "ibm openwhisk",
-    "iot",
-    "internet of things"
+    "squeezer swagger"
   ],
   "repository": {
     "type": "git",
@@ -59,8 +32,7 @@
     "colors": "^1.1.2",
     "express": "^4.15.4",
     "lodash": "^4.17.4",
-    "url-parse": "^1.1.9",
-    "walk-sync": "^0.3.2"
+    "url-parse": "^1.1.9"
   },
   "devDependencies": {
     "eslint": "^3.19.0",

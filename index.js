@@ -16,7 +16,7 @@ class SwaggerPlugin {
       {
         arg         : ['deploy'],
         lifecycle   : [
-          'swagger:deploy'
+          'after:deploy:run:swagger:deploy'
         ],
         options     : {}
       }
